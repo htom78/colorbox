@@ -1,5 +1,5 @@
 {
-    "name"          : "ColorBox",
+    "name"          : "colorBox",
     "description"   : "Give your JS App some Backbone with Models, Views, Collections, and Events.",
     "url"           : "http://backbonejs.org",
     "keywords"      : ["util", "functional", "server", "client", "browser"],
